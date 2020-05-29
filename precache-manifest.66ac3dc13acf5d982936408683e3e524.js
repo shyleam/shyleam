@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "139b502a25c468a4cb626bd980e7f554",
+    "revision": "5b238b93303790d35229fd1f861ea9fe",
     "url": "/shyleam/index.html"
   },
   {
-    "revision": "65449e35203a75bb9d2c",
-    "url": "/shyleam/static/css/main.be0660bc.chunk.css"
+    "revision": "23add58a3314d917b9b3",
+    "url": "/shyleam/static/css/main.c858535b.chunk.css"
   },
   {
     "revision": "fa2c43b60c330e18d3b4",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shyleam/static/js/2.153e90c1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "65449e35203a75bb9d2c",
+    "revision": "23add58a3314d917b9b3",
     "url": "/shyleam/static/js/main.4e9048a2.chunk.js"
   },
   {

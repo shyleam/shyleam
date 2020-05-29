@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/shyleam/precache-manifest.22555576d90dd9703323c01f3356b190.js"
+  "/shyleam/precache-manifest.66ac3dc13acf5d982936408683e3e524.js"
 );
 
 self.addEventListener('message', (event) => {
